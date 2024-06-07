@@ -1,0 +1,14 @@
+{
+  "name": "demo-nginx",
+  "version": "1.0.0",
+  "description": "Show you how to deploy nodejs server on AWS EC2 Ubuntu server with Free SSL and Nginx",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@kpg",
+  "license": "MIT"
+}
