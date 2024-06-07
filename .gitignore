@@ -1,0 +1,16 @@
+# vscode settings
+.vscode
+
+# node package dependencies (if any)
+node_modules
+package-lock.json
+
+# environment variables
+.env
+.env.local
+.env.production
+.env.staging
+
+# temporary folder (dev files)
+temp
+
